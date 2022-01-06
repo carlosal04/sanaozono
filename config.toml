@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://sanaozono.com"
+baseURL = "https://www.sanaozono.com"
 languageCode = "es-MX"
 title = "Sana Ozono"
 theme = "liva-hugo"
